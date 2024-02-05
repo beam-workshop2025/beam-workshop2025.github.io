@@ -7,7 +7,11 @@
     </div>
     <div class="row">
     {% for organizer in site.data.index.organizer %}
+        {% if forloop.index>3 %}
+        <div class="col-lg-3 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
+        {% else %}
         <div class="col-lg-4 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
+        {% endif %}
             <div class="team-member">
                 <h4><span>{{ organizer.first_name }}</span> {{ organizer.last_name }}</h4>
                 <p>{{ organizer.desc }}</p>
