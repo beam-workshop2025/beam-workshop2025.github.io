@@ -1,1 +1,1 @@
-This repository contains the source code for the The First Workshop on the Evaluation of Generative Foundation Models (CVPR24) website. It is mainly based on the code from https://zontakm9.github.io/aot-iccvw21/. If you reuse this code, please credit them.
+The Official Site for the First Workshop on the Evaluation of Generative Foundation Models at CVPR 2024.

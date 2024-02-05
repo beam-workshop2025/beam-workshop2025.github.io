@@ -1,0 +1,30 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: datasets
+  i18n: datasets
+  desc: Presentation of new datasets and benchmarks tailored for comprehensive GenFM evaluation.
+
+- name: Human-in-the-Loop
+  i18n: Human-in-the-Loop
+  desc: Human-in-the-Loop methodologies that incorporate human judgment and preferences.
+
+- name: Quantitative
+  i18n: Quantitative
+  desc: Quantitative methods that accurately reflect human judgments.
+
+- name: existing
+  i18n: existing
+  desc: Pros and Cons analyses of existing evaluation techniques and benchmarks
+
+- name: challenges 
+  i18n: challenges 
+  desc: Discussion of unique challenges of multimodal GenFM evaluation 
+
+- name: Quantification
+  i18n: Quantification
+  desc: Quantification of interplay between modalities and the emergence of new information within GenFMs
+
+- name: Exploration
+  i18n: Exploration
+  desc: Exploration of techniques to leverage automated evaluation for model refinement
