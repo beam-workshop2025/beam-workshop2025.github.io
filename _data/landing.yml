@@ -6,18 +6,17 @@
   tpl: about.html
   css:
 
-- id: Topics 
-  i18n: nav.challenge
-  name: topics
-  tpl: challenge.html
-  css: challenge
-
 - id: Submission
   i18n: nav.submission
   name: timeline
   tpl: submission.html
   css: submission
 
+- id: Topics 
+  i18n: nav.challenge
+  name: topics
+  tpl: challenge.html
+  css: challenge
 
 - id: Organizers
   i18n: nav.organizer
