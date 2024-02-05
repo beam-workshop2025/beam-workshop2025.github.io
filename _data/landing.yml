@@ -1,0 +1,26 @@
+# index page sections
+# custom following lines to edit your index page
+- id: about-me
+  i18n: nav.about_me
+  name: Info
+  tpl: about.html
+  css:
+
+- id: Topics 
+  i18n: nav.challenge
+  name: topics
+  tpl: challenge.html
+  css: challenge
+
+- id: Submission
+  i18n: nav.submission
+  name: timeline
+  tpl: submission.html
+  css: submission
+
+
+- id: Organizers
+  i18n: nav.organizer
+  name: organizers
+  tpl: organizer.html
+  css: contact

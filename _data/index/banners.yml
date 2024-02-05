@@ -1,0 +1,9 @@
+# carousel banners section
+# Add items for each banner image in the carousel
+#
+# Images are expected to be located in `static/assets/img/`.
+- src: landing/Seattle_Kerry_Park_Skyline.jpg
+  title: Photo by CommunistSquaredw on WikiMedia Commons
+
+- src: landing/Seattle_at_Night_from_Kerry_Park.jpg
+  title: Photo by InSapphoWeTrust on WikiMedia Commons 

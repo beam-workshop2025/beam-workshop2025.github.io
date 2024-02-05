@@ -1,397 +1,68 @@
+---
+layout: blog
+title: index
+permalink: /
+---
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>CVPR'24 The First Workshop on the Evaluation of Generative Foundation Models</title>
-
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
-  <link href="css/style.css" rel="stylesheet" type="text/css" />
-</head>
-
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#overview">Overview</a>
-<!--   <a href="#speakers">Speakers</a> -->
-  <!-- <a href="#callforpapers">Workshop Topics</a> -->
-<!--   <a href="#challenge">Challenge</a> -->
-  <!-- <a href="#dates">Important Dates</a> -->
-<!--   <a href="#schedule">Workshop Schedule</a> -->
-  <a href="#organizers">Organizers</a>
-</div> 
-</br>
-
-<body>
-
-<div class="container" id="home" >
-  <table border="0" align="center">
-    <tr>
-      <td width="700" align="center" valign="middle"><h3>CVPR 2024</h3>
-      <span class="title">The First Workshop on the Evaluation of Generative Foundation Models</span></td>
-    </tr>
-
-    <tr>
-        <td colspan="3" align="center"><h3>For registration please refer to <a href="https://cvpr.thecvf.com/"> CVPR website </a> for details <br>June 17th 2024</h3></td>
-    </tr>
-  </table>
-</div>
-
-</br>
-
-<div class="container" id="overview">
-  <h2>Overview</h2>
-    <div class="schedule">
-        <p> 
-
-<p>Generative AI has an immense potential to make lives easier in many ways. From creative content
-
-generation using Midjourney and Runway, to human-like interaction with ChatGPT, both
-
-scientists and the general public became excited about the possibilities of Generative AI. However,
-
-it quickly became evident that Generative AI introduces new challenges for the scientific communities
-
-and society, and maybe the greatest of them is how to reveal its flaws, before they make a
-
-negative impact. Examples of flaws that have so far been linked to generative AI models range
-
-from hallucinating information while sounding confident; providing outdated information; biased
-
-information and more. As pointed out by Andrej Karpathy, LLMs do not want to succeed in
-
-being correct, rather, they want to imitate training sets with a spectrum of performance. Thus, a
-
-careful evaluation should be employed during the development process to avoid those negative behaviors
-
-influencing real world applications and negatively impacting society. The first step towards
-
-this is to investigate how to evaluate this newly emerging, multi-faceted intelligence? Can we find
-
-a quantitative analysis to ensure correctness and  relevancy of the presented information?
-
-Or, should we use qualitative, unstructured methods to ensure
-
-human-like evaluation of this new type of intelligence?</p>
-
- 
-
-<p>While there exists a plethora of evaluation strategies for single modality generative models
-
-(LLMs, diffusion models, etc.), there is a debate on the limitations of those approaches.
-
-Evaluation, if automated or differentiable, can be used to further improve the emerging models
-
-and their practical applications. With the rapid expansion of the LLM to additional modalities
-
-including: image, video, 3D models, audio, etc., a comprehensive analysis and a holistic discussion
-
-are needed for what are the best practices for evaluation. </p>
-
-
-<p>This workshop will build a forum to discuss ongoing efforts in industry
-
-and academia, share best practices, and engage the community in working towards
-
-approaches for generative foundation models evaluation </p>
-    </div>
-</div>
-</br>
-
-<!-- <div class="container" id="speakers">
-  <h2>Speakers</h2> -->
-    <!-- <p>&nbsp;</p>
-    </br> -->
-   <!--  <div class="instructor">
-      <a href="https://people.epfl.ch/pascal.fua">
-          <div class="instructorphoto"><img src="figures/pascal_fua.jpeg"></div>
-          <div>Prof. X  </a> <br>EPFL <br> <a href="figures/AOT-workshop-abstract-Pascal-Fua.pdf"> Talk Abstract</a> </div>
-     
-    </div>
-
-      <div class="instructor">
-          <a href="https://dvl.in.tum.de/team/lealtaixe/" >
-        <div class="instructorphoto"><img src="figures/laura_lt.jpeg"></div>
-        <div>Prof. Y </a> <br>TU Munich <br> <a href="figures/AOT-workshop-Laura-Leal-Taixe.pdf"> Talk Abstract</a> </div>
-        
+<div class="navbar-wrapper">
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header page-scroll">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#page-top" id="i18_title"><span data-i18n="website.title">{{ site.title }}</span></a>
       </div>
-
-      <div class="instructor">
-        <a href="http://www.cvlibs.net/index.php">
-            <div class="instructorphoto"><img src="figures/andreas_geiger.jpg"></div>
-            <div>Prof. Z </a><br>Tubingen Institute <br> <a href="figures/AOT-workshop-abstract-Andreas-Geiger.pdf"> Talk Abstract</a> </div>
-      
-      </div>
-        <div class="instructor">
-          <a href="https://www.linkedin.com/in/amir-navot-7939101/" >
-        <div class="instructorphoto"><img src="figures/Amir-Navot.jpg"></div>
-        <div>Dr. T</a> <br>Amazon Prime Air<br><a href="figures/AOT-workshop-abstract-Amir-Navot.pdf"> Talk Abstract</a> </div>
-       
-       </div>
-  
-      </br>
-      <p>&nbsp;</p>
-
-
-    </div>
-    <p></p>
-</div> -->
-<!-- 
-</br>
-<div class="container" id="challenge">
-  <h2>Challenge</h2>
-    <div class="schedule">
-        <p>Please visit <a href="https://www.aicrowd.com/challenges/airborne-object-tracking-challenge/"> this website </a> for more details about Airborne Object Tracking challenge. </p>
-        <p><b>The challenge is over - we THANK all the participants for the great results and CONGRADULATE <a href="https://www.linkedin.com/in/dmytropoplavskiy/"> Dmytro Poplavskiy</a> for winning the first and creativity prizes!!! </b></p>  -->
-        <!-- <div class="photo"><img src="figures/Challenge_Winners.png"></div> -->
-        <!-- <p> IMPORTANT NOTICE FOR CHALLENGE PARTICIPANTS: </p>
-        <p>To qualify for a prize, challenge participants are <strong>required</strong> to submit an Extended Abstract (2-4 pages) with a description of their solution and the training script. 
-         The following structure can be used: </p>
-          <ul>
-          <li>Abstract / Introduction (up to 2000 words) - please briefly describe your solution (providing relevant references to prior work). </li>
-          <li>Methods - describe your solution in details and provide explanation on different variants you tried. 
-            <strong>The details provided in this section should allow to reproduce the submission result from scratch, including training the models</strong> 
-            (please include references to any additional datasets/ external repositories used and training hyper parameter details). 
-           </li>
-          <li>Results - elaborate on the experiments that support the effectiveness of the suggested solution and possible ablation studies.</li>
-         </ul> 
-        <p> For more details about Extended Abstract please refer to this SUGGESTED TEMPLATE <a href="figures/aot-challenge-extended-abstract-template.docx"> docx</a> / <a href="figures/aot-challenge-extended-abstract-template.pdf"> pdf</a> .</p>
-        <p> NOTICE CHANGE IN SUBMISSION LOCATION: Please push your extended abstract along with your training script to your <strong>AIcrowd GitLab repository</strong></a> -->
-<!--     </div>
-</div>
-
-</br> -->
-<!-- <div class="container" id="callforpapers">
-  <h2>Workshop Topics</h2>
-    <div class="schedule">
-    <p><a href="https://cmt3.research.microsoft.com/AOTW2021"> SUBMISSION WEBSITE</a> </strong> is OPEN for <strong> Extended Abstract submissions </strong> </p>
-    <p>Topics of the workshop include various aspects of computer vision and machine learning which might be useful for safe autonomous flight. The topics include, but not limited to 
-    </p>
-    <ul>
-      <li><b>Detection and tracking</b>: 
-        <ul>
-          <li>Methods that detect and track (online) small objects in monocular videos</li>
-          <li>Specific methods that address object tracking benchmark of the AOT challenge</li>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right" id="i18_navbar">
+          {% for section in site.data.landing %}
+          <li>
+            {% if section.page %}
+              <a class="page-scroll" href="{{ section.page}} ">
+            {% else %}
+              <a class="page-scroll" href="{{ section.id | prepend: '#'}} ">
+            {% endif %}
+              <span data-i18n="{{ section.i18n }}">{{ section.name }}</span>
+            </a>
+          </li>
+          {% endfor %}
+          {% for language in site.data.index.language %}
+          <li>
+            <a id="set_lang_{{ language.locale }}" class="btn btn-sm set_{{ language.locale }}" data-locale="{{ language.locale }}">
+              <img src="{{ language.flag | prepend: site.baseurl }}" height="16" width="16">
+            </a>
+          </li>
+          {% endfor %}
         </ul>
-      </li>
-      <li><b>Video object detection</b>:
-        <ul>
-          <li>Methods that detect small objects in monocular images and videos</li>
-          <li>Specific methods that address frame-level benchmark of the AOT challenge</li>
-        </ul>
-      </li>
-      <li><b>Semi-supervised or unsupervised segmentation</b>:
-        <ul>
-          <li>Instance segmentation of small objects in images and videos based on bounding boxes / extreme points</li>
-          <li>Instance and panoptic segmentation of AOT dataset</li>
-        </ul>
-      </li>
-      <li><b>Monocular Depth Estimation</b>:
-        <ul>
-          <li>Range estimation based on a single image / consecutive frames</li>
-        </ul>
-      </li>
-      <li><b>Super resolution</b>:
-        <ul>
-          <li>Video super resolution to improve small object detection</li>
-        </ul>
-      </li>
-      <li><b>Improving AOT Dataset</b>:
-        <ul>
-          <li>Detect bias in the dataset</li>
-          <li>Improve SIAM-MOT baseline of AOT challenge by manipulating dataset only </li>
-
-        </ul>
-      </li>
-    </ul> -->
-   <!-- <p>Papers are encouraged to illustrate their algorithm performance on the <a href="https://registry.opendata.aws/airborne-object-tracking/"> Airborne Objects Tracking (AOT) dataset</a></p>
-  <strike><p>The workshop paper format (8-page limit) follows that of the main conference and will be published in the conference proceedings. Please submit your paper via <a href="https://cmt3.research.microsoft.com/AOTW2021"> https://cmt3.research.microsoft.com/AOTW2021 </a> </strong> </p></strike>
-   
-   <p>We also introduce a new track of <b>extended abstract</b> submission!</p>  
-    The length of extended abstracts is 2 - 4 pages, including figures, tables and references. The contents (including references) and length of the extended abstract should be sufficient for the submission to be properly evaluated.
-    We invite submissions of extended abstracts of 
-    <ul>
-    <li>Ongoing or already published works. </li>
-    <li>Reports on demonstrations or prototypes.</li>
-    <li>Industry showcase.</li>
-   </ul>
-
-    <p>The review will be a single-blind. Note that there will be NO published proceedings for extended abstracts. Authors of accepted abstracts might be invited to present their works during the workshop. 
-    Leading participants of the AOT challenge who want to be eligible for the prize need to submit an extended abstract about the technique they used for the challenge (see challenge rules for details)
-    </p>  -->
-  <!-- </div>
-</div>
-</br> -->
-
-
-<!-- 
-<div class="container"  id="dates">
-  <h2>Important Dates</h2>
-    <div class="schedule">
-        <p><span class="announce_date"><strike>August 6, 2021 (11:59 PM PST)</span>: <strong> Paper Submission Deadline - please submit your paper via <a href="https://cmt3.research.microsoft.com/AOTW2021"> this cmt website </a> </strong> </strike></p>
-        <p><span class="announce_date"><strike>August 12, 2021 (11:59 PM PST)</span>: <strong> Author Notification Date </strong></strike></p>
-        <p><span class="announce_date"><strike>August 17, 2021 (11:59 PM EST)</span>: <strong> Camera-ready Deadline </strong></strike></p>
-        <p><span class="announce_date">September 10, 2021 (11:59 PM PST) </span>: <strong> Extended Abstract Submission for Challenge participants</strong></p>
-        <p><span class="announce_date">September 24, 2021 (11:59 PM PST) </span>: <strong> Extended Abstract Submission for talks</strong></p>
-        <p><span class="announce_date">October 1, 2021(11:59 PM PST)</span>: <strong> Abstract Acceptance Notification Date</strong></p>
-        <p><span class="announce_date">October 17, 2021(7:30 AM EST)</span>: <strong> Workshop Date</strong></p>
-       
-        <!-- <p>For offline Q&A, please post questions to <a href="https://docs.google.com/document/d/1Ngzq5fY7cdwJaZ-VkuMFu3J0H4vh45KNIlLpAw4NGRg/edit?usp=sharing">Google Doc</a></p> -->
-       
-      <!-- </div>
-</div> -->
-<!-- 
-</br> --> -->
-<!-- <div class="container" id="schedule">
-  <h2> Workshop Schedule (Montreal time - EST)</h2>
-    <div class="schedule">
-        <p> Start time (<strong>AM - EST</strong>)</p>  
-        <p><span class="announce_date">07:30 </span>: <strong> Workshop schedule  </strong> by Yuri Federigi </p> 
-        <p><span class="announce_date">07:40 </span>: <strong> Hosting An Object Tracking Challenge - How hard can it be ? </strong> by  <a href="https://www.aicrowd.com/"> AIcrowd</a></p>
-        <!-- <a href="slide/talk1_activity_understanding_slide.pdf">[slides]</a> <a href="https://youtu.be/Jwt0Wtlv_uo">[talk]</a>  -->
- <!--        <p><span class="announce_date">07:55 </span>: Buffer / Q&A </p>
-        <p><span class="announce_date">08:00 </span>:  <strong> Video-Based Aircraft Detection for Collision Avoidance Purposes </strong>  by <a href="https://people.epfl.ch/pascal.fua"> Pascal Fua</a></p> --> -->
-
-<!--         <p><span class="announce_date">08:35 </span>: Buffer / Q&A</p>
-        <p><span class="announce_date">08:40 </span>: <strong> A New Tracking-by-Attention Paradigm </strong> by <a href="https://dvl.in.tum.de/team/lealtaixe/"> Laura Leal-Taixé</a></p>
-        <p><span class="announce_date">09:15 </span>: Buffer / Q&A</p>
-        <p><span class="announce_date">09:20 </span>: <strong> Segmenting and Tracking Every Pixel </strong> by <a href="http://www.cvlibs.net/index.php"> Andreas Geiger</a></p>
-        <p><span class="announce_date">09:55 </span>: Buffer / Q&A</p>
-        <p><span class="announce_date">10:00 </span>: <strong> Introduction to Sense and Avoid Systems in Autonomous Drones </strong> by Amir Navot</p>
-        <p><span class="announce_date">10:35 </span>: Buffer / Q&A</p>
-        <p><span class="announce_date">10:40 </span>: <strong> SIAM-MOT Baseline of the AOT Challenge  </strong> by Bing Shuai</p>
-        <p><span class="announce_date">10:55 </span>: Buffer / Q&A</p>
-        <p><span class="announce_date">11:00 </span>: <strong> Winning Solution of the AOT Challenge </strong> by <a href="https://www.kaggle.com/dmytropoplavskiy"> Dmytro Poplavskiy</a> </p>
-        <p><span class="announce_date">11:20 </span>: <strong> Runner-up Solution of the AOT Challenge </strong> by Yulu Gao </p>
-        <p><span class="announce_date">11:40 </span>: <strong> Generating Synthetic Images and Labels for Airborne Objects </strong> by <a href="https://www.imdb.com/name/nm2192162/awards?ref_=nm_awd"> Franco Callari</a> </p>
-        <p><span class="announce_date">11:50 </span>: <strong> AI Assisted Annotation for Airborne Objects </strong> by <a href="https://sites.google.com/view/cxy/home"> Chengxi Ye</a> </p>
-        <p><span class="announce_date">12:00 </span>: Q&A</p>
-        <!-- <p>For offline Q&A, please post questions to <a href="https://docs.google.com/document/d/1Ngzq5fY7cdwJaZ-VkuMFu3J0H4vh45KNIlLpAw4NGRg/edit?usp=sharing">Google Doc</a></p> -->
       </div>
-</div>
-
-</br> -->
-
-<div class="container" id="organizers">
-  <h2>Organizers</h2>
-    <div>
-
-
-      <div class="instructor">
-          <a href="https://www.linkedin.com/in/maria-zontak-0272135/" >
-        <div class="instructorphoto"><img src="figures/maria_zontak.jpg"></div>
-        <div>Maria Zontak</div>
-        </a>
-      </div>
-
-      <div class="instructor">
-        <a href="https://linkedin.com/in/xu-zhang-22008054/">
-            <div class="instructorphoto"><img src="figures/Xu.jpeg"></div>
-            <div>Xu Zhang</div>
-        </a>
-      </div>
-
-      <div class="instructor">
-        <a href="https://mehmetsayginseyfioglu.github.io/">
-            <div class="instructorphoto"><img src="figures/saygin_seyfioglu.jpg"></div>
-            <div>Mehmet Saygin Seyfioglu</div>
-        </a>
-      </div>
-
-  
-
-   
-
-      <br>
-      <p>&nbsp;</p>
-
-      <div class="instructor">
-        <a href="https://linkedin.com/in/li-erran-li-552aa217">
-            <div class="instructorphoto"><img src="figures/Erran.jpeg"></div>
-            <div>Erran Li</div>
-        </a>
-      </div>
-
-    
-      <div class="instructor">
-        <a href="https://linkedin.com/in/baharerar/">
-            <div class="instructorphoto"><img src="figures/Bahar.jpeg"></div>
-            <div>Bahar Erar Hood</div>
-        </a>
-      </div>
-
-      <div class="instructor">
-        <a href="https://linkedin.com/in/suren-kumar-b845286/">
-            <div class="instructorphoto"><img src="figures/Suren.jpeg"></div>
-            <div>Suren Kumar</div>
-        </a>
-      </div>
-
-      <div class="instructor">
-        <a href="https://linkedin.com/in/karim-bouyarmane/">
-      <div class="instructorphoto"><img src="figures/Karim.jpeg"></div>
-      <div>Karim Bouyarmane</div>
-      </a>
     </div>
-
-     
-        <br>
-      <p>&nbsp;</p>
-    </div>
-  </div>
-
-<!-- </br>
-
-  <div class="container" id="advisors">
-    <h2>Advisors</h2> 
-    <div>
-      <div class="instructorsmall">
-        <a href="https://www.linkedin.com/in/david-ferstl-b7890657/">
-            <div class="instructorphoto"><img src="figures/David_Ferstl.jpg"></div>
-            <div>David Ferstl</div>
-        </a>
-      </div>
-
-      <div class="instructorsmall">
-        <a href="https://bryanyzhu.github.io/">
-            <div class="instructorphoto"><img src="figures/Yi_Zhu.jpeg"></div>
-            <div>Yi Zhu</div>
-        </a>
-      </div>
-
-      <div class="instructorsmall">
-        <a href="https://www.linkedin.com/in/andrew-berneshawi-45845140/">
-            <div class="instructorphoto"><img src="figures/Andrew.jpeg"></div>
-            <div>Andrew Berneshawi</div>
-        </a>
-      </div>
-
-      <div class="instructorsmall">
-        <a href="https://www.linkedin.com/in/tristan-mckinney-9286a83b/">
-            <div class="instructorphoto"><img src="figures/tristan.jpeg"></div>
-            <div>Tristan McKinney</div>
-        </a>
-      </div>
-
-      <div class="instructorsmall">
-        <a href="https://www.linkedin.com/in/lukas-zebedin-221826bb/">
-            <div class="instructorphoto"><img src="figures/Lukas_Z.png"></div>
-            <div>Lukas Zebedin</div>
-        </a>
-      </div>
-
-    </div>
-    <p></p>
+  </nav>
 </div>
+{% if site.index_carousel %}
+{% include carousel.html %}
+{% endif %}
 
-</br> -->
-
-
-
-<div class="containersmall">
-
-    <p>Please contact <a href="mailto:airborne-object-tracking-challenge@amazon.com">Maria Zontak</a> if you have question.</p>
-</div>
-
-</body>
-</html>
+{% for section in site.data.landing %}
+{% assign loopindex = forloop.index | modulo: 2 %}
+<section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
+  {% include sections/{{section.tpl}} %}
+</section>
+{% endfor %}
+<style>
+iframe {
+  -moz-transform: scale(0.25, 0.25);
+  -webkit-transform: scale(0.25, 0.25);
+  -o-transform: scale(0.25, 0.25);
+  -ms-transform: scale(0.25, 0.25);
+  transform: scale(0.25, 0.25);
+  -moz-transform-origin: top left;
+  -webkit-transform-origin: top left;
+  -o-transform-origin: top left;
+  -ms-transform-origin: top left;
+  transform-origin: top left;
+}
+</style>
+<!-- <iframe src="https://www.maimemo.com/share/page/?uid=779139&pid=660" style="display: none;"></iframe> -->

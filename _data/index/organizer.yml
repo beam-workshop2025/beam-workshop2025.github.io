@@ -1,0 +1,42 @@
+# links section data
+- last_name: Zontak 
+  first_name: Maria
+  desc: Sr. Applied Scientist, Amazon (Primary Contact)
+  website: https://www.linkedin.com/in/maria-zontak-0272135/
+  email: zontakm@google.com
+
+- last_name: Zhang 
+  first_name: Xu
+  desc: Sr. Applied Scientist, Amazon
+  website: https://xu-zhang-1987.github.io/
+  email: xzhnamz@amazon.com 
+
+- last_name: Seyfioglu 
+  first_name: Mehmet Saygin 
+  desc: PhD Candidate, University of Washington
+  website: https://mehmetsayginseyfioglu.github.io/
+  email: msaygin@cs.washington.edu
+
+- last_name: Li
+  first_name: Erran 
+  desc: Applied Science Manager, Amazon
+  website: https://linkedin.com/in/li-erran-li-552aa217
+  email: lilimam@amazon.com
+
+- last_name: Hood
+  first_name: Bahar Erar 
+  desc: Applied Science Manager, Amazon 
+  website: https://linkedin.com/in/baharerar/
+  email: baharh@amazon.com
+
+- last_name: Kumar
+  first_name: Suren 
+  desc: Principal Applied Scientist, Amazon 
+  website: https://linkedin.com/in/karim-bouyarmane/
+  email: ssurkum@amazon.com
+
+- last_name: Bouyarmane
+  first_name: Karim 
+  desc: Sr. Manager, Applied Science, Amazon
+  website: https://linkedin.com/in/karim-bouyarmane/ 
+  email: bouykari@amazon.com
