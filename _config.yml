@@ -23,7 +23,7 @@ author:  # change following line to your infomation.
   #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   desc: 
-    <p> Paper submission CMT site <a href="https://cmt3.research.microsoft.com/EvGenFMCVPR2024" target="_blank"><span class="navy"> https://cmt3.research.microsoft.com/EvGenFMCVPR2024 </span></a><br><br>
+    <p> Paper submission CMT site is now open! <a href="https://cmt3.research.microsoft.com/EvGenFMCVPR2024" target="_blank"><span class="navy"> https://cmt3.research.microsoft.com/EvGenFMCVPR2024 </span></a><br><br>
     
     The landscape of artificial intelligence is being transformed by the advent of Generative Foundation Models (GenFMs), such as Large Language Models (LLMs) and diffusion models. GenFMs offer unprecedented opportunities to enrich human lives and transform industries. However, they also pose significant challenges, including the generation of factually incorrect or biased information, which might be potentially harmful or misleading. With the emergence of multimodal GenFMs, which leverage and generate content in an increasing number of modalities, these challenges are set to become even more complex. This emphasizes the urgent need for rigorous and effective evaluation methodologies. <br><br>
 
