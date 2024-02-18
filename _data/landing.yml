@@ -18,6 +18,12 @@
   tpl: challenge.html
   css: challenge
 
+- id: Speaker 
+  i18n: nav.speaker
+  name: speakers
+  tpl: speaker.html
+  css: speaker
+
 - id: Organizers
   i18n: nav.organizer
   name: organizers

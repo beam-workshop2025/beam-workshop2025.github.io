@@ -23,11 +23,14 @@ author:  # change following line to your infomation.
   #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   desc: 
-    <p> The landscape of artificial intelligence is being transformed by the advent of Generative Foundation Models (GenFMs), such as Large Language Models (LLMs) and diffusion models. GenFMs offer unprecedented opportunities to enrich human lives and transform industries. However, they also pose significant challenges, including the generation of factually incorrect or biased information, which might be potentially harmful or misleading. With the emergence of multimodal GenFMs, which leverage and generate content in an increasing number of modalities, these challenges are set to become even more complex. This emphasizes the urgent need for rigorous and effective evaluation methodologies. <br><br>
+    <p> Paper submission CMT site <a href="https://cmt3.research.microsoft.com/EvGenFMCVPR2024" target="_blank"><span class="navy"> https://cmt3.research.microsoft.com/EvGenFMCVPR2024 </span></a><br><br>
+    
+    The landscape of artificial intelligence is being transformed by the advent of Generative Foundation Models (GenFMs), such as Large Language Models (LLMs) and diffusion models. GenFMs offer unprecedented opportunities to enrich human lives and transform industries. However, they also pose significant challenges, including the generation of factually incorrect or biased information, which might be potentially harmful or misleading. With the emergence of multimodal GenFMs, which leverage and generate content in an increasing number of modalities, these challenges are set to become even more complex. This emphasizes the urgent need for rigorous and effective evaluation methodologies. <br><br>
 
     The 1st Workshop on Evaluation for Generative Foundation Models at CVPR 2024 aims to build a forum to discuss ongoing efforts in industry and academia, share best practices, and engage the community in working towards more reliable and scalable approaches for GenFMs evaluation. Full CFP can be found at <a href="https://drive.google.com/file/d/1KHTmKhutifDrjP19-NH7KsUmubVWFUeb/view?usp=drive_link" target="_blank"><span class="navy"> CFP link </span></a>.<br><br>
 
-    Papers are limited to eight pages, including figures and tables, in the CVPR style. Additional pages containing only cited references are allowed. Please download the <a href="https://github.com/cvpr-org/author-kit/releases" target="_blank"><span class="navy"> CVPR 2024 Author Kit </span></a> for detailed formatting instructions. We will be using CMT to manage submissions. </p>
+    Papers are limited to eight pages, including figures and tables, in the CVPR style. Additional pages containing only cited references are allowed. Please download the <a href="https://github.com/cvpr-org/author-kit/releases" target="_blank"><span class="navy"> CVPR 2024 Author Kit </span></a> for detailed formatting instructions. <br><br>
+
 
 # comment
   disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

@@ -3,17 +3,47 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 #
 
-- name: Diane Larlus
-  i18n: Larlus
-  img: /static/assets/img/landing/Larlus.jpg
-  desc: Senior Research Scientist at NAVER LABS Europe
-  title: From Instance-Level to Semantic Image Retrieval
-  abstract: In the first part of the talk, we will move beyond instance-level retrieval and consider the task of semantic image retrieval in complex scenes, where the goal is to retrieve images that share the same semantics as the query image. Despite being more subjective and more complex, one can show that the task of semantically ranking visual scenes is consistently implemented across a pool of human annotators, and that suitable embedding spaces can be learnt for this task of semantic retrieval. The second part of the presentation will focus on cross-modal retrieval. More specifically, we will consider the problem of cross-modal fine-grained action retrieval between captions and videos. Cross-modal retrieval is commonly achieved through learning a shared embedding space that can indifferently embed modalities. In this part we will show how to enrich the embedding space by disentangling parts-of-speech (PoS) in the accompanying captions. 
+- name: Tal Hassner
+  i18n: Hassner
+  img: /static/assets/img/landing/Tal_Hassner.jpeg
+  desc: Applied Research Lead at Facebook AI
 
-- name: Ping Luo
-  i18n: Luo
-  img: /static/assets/img/landing/Luo.jpg
-  desc: Associate Professor at the University of Hong Kong
-  title: Instance Detection, Segmentation, Landmark Estimation and Beyond
-  abstract: This talk will cover three general topics of instance-level visual perception including fashion image understanding, whole-body human landmarks (face, hand and body keypoints) estimation, and instance detection and segmentation. First, we will introduce a new perspective of modelling object mask in the polar space by proposing PolarMask, which is an efficient single-stage instance segmentation pipeline. Secondly, we will introduce a new benchmark for full-body human landmark estimation that predicts key points of human face, hand and torso simultaneously. Thirdly, we will apply human segmentation and pose estimation for highly realistic fashion image generation.
+- name: Bo Li
+  i18n: Li
+  img: /static/assets/img/landing/bo_li.png
+  desc: Associate Professor at University of Chicago
 
+- name: Ranjay Krishna
+  i18n: Krishna
+  img: /static/assets/img/landing/Ranjay_Krishna.png
+  desc: Associate Professor at University of Washington
+
+- name: Hanwang Zhang 
+  i18n: Zhang
+  img: /static/assets/img/landing/Hanwang_Zhang.png
+  desc: Associate Professor at Nanyang Technological University
+
+- name: Leonid Karlinsky 
+  i18n: Karlinsky
+  img: /static/assets/img/landing/Leonid_Karlinsky.jpeg
+  desc: Principal Research Scientist in the MIT-IBM lab
+
+- name: Jungo Kasai 
+  i18n: Kasai
+  img: /static/assets/img/landing/Jungo_Kasai.png
+  desc: Co-founder & CTO at Kotoba Technologies, Inc.
+
+- name: Sadeep Jayasumana 
+  i18n: Jayasumana
+  img: /static/assets/img/landing/Sadeep_Jayasumana.jpeg
+  desc: Staff Research Scientist at Google Research
+
+- name: Besmira Nushi 
+  i18n: Nushi
+  img: /static/assets/img/landing/Besmira_Nushi.jpeg
+  desc: Researcher at Microsoft Research
+
+- name: Ece Kamar 
+  i18n: Kamar
+  img: /static/assets/img/landing/Ece_Kamar.jpeg
+  desc: Managing Director at MSR
