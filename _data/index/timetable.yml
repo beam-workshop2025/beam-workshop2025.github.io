@@ -1,98 +1,110 @@
 # schedules section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Welcome Remarks 
+    detail: Gathering + Posters Arrangement 
   desc:
-    detail: Andre Araujo
-    video: https://www.youtube.com/watch?v=GjlFhYOJ13Q
-    slides: https://drive.google.com/file/d/1f9VZW1gtxAohL_ApA-qdZkAklAB5cZ6t/view?usp=sharing
+    detail: 
     host: 
   date:
-    detail: Aug 28, 14:00 - 14:15 UTC+1 
+    detail: Jun 18, 13:00 - 13:20 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Invited Talk 1 
+    detail: Opening Remarks 
   desc:
-    detail: Ping Luo (Associate Professor, University of Hong Kong)
-    title: Instance Detection, Segmentation, Landmark Estimation and Beyond
-    video: https://www.youtube.com/watch?v=VhuuUiqjxgM
-    host: Jack Sim
+    detail: 
+    host: 
   date:
-    detail: Aug 28, 14:15 - 15:00 UTC+1 
+    detail: Jun 18, 13:20 - 13:30 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Introduction to Landmark Retrieval Challenge  
+    detail: Keynote 1 
   desc:
-    detail: Tobias Weyand, Bingyi Cao and Cam Askew
-    video: https://www.youtube.com/watch?v=Xvg7sBw-aqA
-    slides: https://drive.google.com/file/d/1c_i5aeH8uOiuu1rmKmov3YmWlbmRPa78/view?usp=sharing
-    host:
+    detail: 
+    host: 
   date:
-    detail: Aug 28, 15:00 - 15:25 UTC+1 
+    detail: Jun 18, 13:30 - 14:00 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Landmark Retrieval Challenge Winner Presentations  
+    detail: Keynote 2 
   desc:
-    detail: Teams keetar (#1), bysj (#2), Open Neural Network Exchange (#5).
-    video: https://www.youtube.com/watch?v=SGruUUe6nuk
-    host: Torsten Sattler and Bohyung Han
+    detail: 
+    host: 
   date:
-    detail: Aug 28, 15:25 - 16:00 UTC+1 
+    detail: Jun 18, 14:00 - 14:30 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Invited Talk 2
+    detail: Keynote 3
   desc:
-    detail: Diane Larlus (Senior Research Scientist, NAVER LABS Europe)
-    video: https://www.youtube.com/watch?v=-wMv3HlRUDc
-    host: Ondrej Chum
+    detail: 
+    host: 
   date:
-    detail: Aug 28, 22:00 - 22:45 UTC+1 
+    detail: Jun 18, 14:30 - 15:00 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Introduction to Landmark Recognition Challenge  
+    detail: Keynote 4
   desc:
-    detail: Tobias Weyand, Bingyi Cao and Cam Askew
-    video: https://www.youtube.com/watch?v=oqu4EWHl-4Q
-    slides: https://drive.google.com/file/d/1xGwCNIaAY4qf3NwhfGrTLUlyiKigGAD8/view?usp=sharing
-    host:
+    detail: 
+    host: 
   date:
-    detail: Aug 28, 22:45 - 23:10 UTC+1 
+    detail: Jun 18, 15:00 - 15:25 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Artwork Recognition  
+    detail: Panel Discussion
   desc:
-    detail: Guangxing Han and Giorgos Tolias
-    video: https://www.youtube.com/watch?v=nPcLJqXtZ_s
-    host:
+    detail: 
+    host: 
   date:
-    detail: Aug 28, 23:10 - 23:25 UTC+1 
+    detail: Jun 18, 15:30 - 16:10 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Product Retrieval  
+    detail: Keynote 5
   desc:
-    detail: Xu Zhang
-    video: https://www.youtube.com/watch?v=uxMdfZqym88
-    slides: https://drive.google.com/file/d/1SgSbVnvXLHKEhAjdlmQbwMWiC9HLl0DN/view?usp=sharing
-    host:
+    detail: 
+    host: 
   date:
-    detail: Aug 28, 23:25 - 23:50 UTC+1 
+    detail: Jun 18, 16:10 - 16:35 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Closing Remarks  
+    detail: Keynote 6
   desc:
-    detail: Andre Araujo
-    video: https://www.youtube.com/watch?v=dFGcmVYU20A
-    slides: https://drive.google.com/file/d/16lVbzQxbAW-zqJAlsAozt_4uBn4XTLQ3/view?usp=sharing
-    host:
+    detail: 
+    host: 
   date:
-    detail: Aug 28, 23:50 - Aug 29, 00:00 UTC+1 
+    detail: Jun 18, 16:35 - 17:00 PDT
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote 7
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: Jun 18, 17:00 - 17:25 PDT
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote 8
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: Jun 18, 17:25 - 17:50 PDT
+  icon: fa-microphone 
+
+- name:
+    detail: Poster Session
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: Jun 18, 17:50 - 18:30 PDT
   icon: fa-microphone 
 
