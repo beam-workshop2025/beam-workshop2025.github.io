@@ -18,6 +18,12 @@
   tpl: challenge.html
   css: challenge
 
+- id: Timetable 
+  i18n: nav.timetable
+  name: timeline
+  tpl: timetable.html
+  css: timetable
+
 - id: Speaker 
   i18n: nav.speaker
   name: speakers
