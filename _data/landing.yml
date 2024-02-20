@@ -20,7 +20,7 @@
 
 - id: Timetable 
   i18n: nav.timetable
-  name: timeline
+  name: schedule 
   tpl: timetable.html
   css: timetable
 
