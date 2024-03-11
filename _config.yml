@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: EVGENGM2024
+title: EVGENFM2024
 description: The Official Site for the First Workshop on the Evaluation of Generative Foundation Models
 keywords: Generative Foundation Models, Evaluation, CVPRW 
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -11,9 +11,9 @@ img_path: /evgenfm/CVPRW2024/static/assets/img/blog  # url should be '/homepage/
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: EVGENGM2024  # Be used at blog posts' author.
+  name: EVGENFM2024  # Be used at blog posts' author.
   first_name:   # Be used at index page about me section.
-  last_name: EVGENGM2024  # Be used at index page about me section.
+  last_name: EVGENFM2024  # Be used at index page about me section.
   #avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   #github_username: jarrekk  # Leave blank if you don't have now
   #linkedin_id: jarrekk # Leave blank if you don't have now
@@ -40,7 +40,7 @@ author:  # change following line to your infomation.
 
 # comment
   disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: EVGENGM2024
+  name: EVGENFM2024
 
 # analytics
 ## google analytics
