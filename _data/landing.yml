@@ -32,7 +32,7 @@
 
 - id: PC
   i18n: nav.pc
-  name: pcs
+  name: pc
   tpl: pc.html
   css: pc 
 
