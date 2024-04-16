@@ -1,0 +1,146 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+#
+
+- name: Alex C Williams
+  i18n: Williams
+  desc: Amazon
+
+- name: Amir Tavanaei
+  i18n: Tavanaei
+  desc: Amazon
+
+- name: Angel Martinez-Gonzalez
+  i18n: Martinez-Gonzalez
+  desc: Amazon
+
+- name: Bardiya Akhbari
+  i18n: Akhbari
+  desc: Amazon
+
+- name: Ebrahim Safadi
+  i18n: Safadi
+  desc: Amazon
+
+- name: Fatemeh Ghezloo
+  i18n: Ghezloo
+  desc: University of Washington
+
+- name: Gauthier Guinet
+  i18n: Guinet
+  desc: Amazon
+
+- name: Gokhan Kirlik
+  i18n: Kirlik
+  desc: Amazon
+
+- name: Gozde Sahin
+  i18n: Sahin
+  desc: Amazon
+
+- name: Hammad Ayyubi
+  i18n: Ayyubi
+  desc: Columbia University
+
+- name: Hengameh Mirzaalian
+  i18n: Mirzaalian
+  desc: Amazon
+
+- name: Hengkang Wang
+  i18n: Wang 
+  desc: University of Minnesota
+
+- name: Huitian Lei
+  i18n: Lei
+  desc: Lyft INC
+
+- name: Jiawei Ma
+  i18n: Ma 
+  desc: Columbia University
+
+- name: Junyi Hu
+  i18n: Hu
+  desc: UMass at Lowell
+
+- name: Kee Kiat Koo
+  i18n: Koo
+  desc: Amazon
+
+- name: Mahtab Bigverdi
+  i18n: Bigverdi
+  desc: University of Washington
+
+- name: Meng Han
+  i18n: Han
+  desc: Amazon
+
+- name: Michael Opitz
+  i18n: Opitz 
+  desc: Amazon 
+
+- name: Nadine Behrmann
+  i18n: Behrmann
+  desc: Bosch Center for AI 
+
+- name: Nicholas Dronen
+  i18n: Dronen
+  desc: Amazon
+
+- name: Pradeep Yarlagadda
+  i18n: Yarlagadda
+  desc: Amazon
+
+- name: Prateek Singhi
+  i18n: Singhi
+  desc: Amazon
+
+- name: Qi Li
+  i18n: Li
+  desc: Amazon 
+
+- name: Rahul Sharma
+  i18n: Sharma
+  desc: Amazon
+
+- name: Rustin Soraki
+  i18n: Soraki
+  desc: University of Washington
+
+- name: Thomas Cilloni
+  i18n: Cilloni 
+  desc: Amazon 
+
+- name: Tristan McKinney
+  i18n: McKinney
+  desc: Amazon
+
+- name: Wentai Zhang
+  i18n: Zhang
+  desc: Amazon
+
+- name: Wenyi Wu
+  i18n: Wu
+  desc: Amazon
+
+- name: Wisdom Ikezogwo
+  i18n: Ikezogwo
+  desc: University of Washington
+
+- name: Xiao Zhang
+  i18n: Zhang 
+  desc: Amazon 
+
+- name: Xin Li
+  i18n: Li
+  desc: Amazon
+
+- name: Yiming Qian
+  i18n: Qian
+  desc: Amazon
+
+- name: Yuguang Li
+  i18n: Li
+  desc: Zillow Group
+
+
