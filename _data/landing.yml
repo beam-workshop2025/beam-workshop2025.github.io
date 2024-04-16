@@ -30,6 +30,12 @@
   tpl: speaker.html
   css: speaker
 
+- id: PC
+  i18n: nav.pc
+  name: pcs
+  tpl: pc.html
+  css: pc 
+
 - id: Organizers
   i18n: nav.organizer
   name: organizers
