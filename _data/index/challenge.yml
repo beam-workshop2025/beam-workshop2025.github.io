@@ -1,30 +1,37 @@
 # speaker section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: datasets
-  i18n: datasets
-  desc: Presentation of new datasets and benchmarks tailored for comprehensive GenFM evaluation.
+- name: Diagnostic
+  i18n: Diagnostic
+  desc: Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation; 
+  author: Jaemin Cho, Linjie Li, Zhengyuan Yang, Zhe Gan, Lijuan Wang, Mohit Bansal.
 
-- name: Human-in-the-Loop
-  i18n: Human-in-the-Loop
-  desc: Human-in-the-Loop methodologies that incorporate human judgment and preferences.
+- name: Evaluating
+  i18n: Evaluating
+  desc: Evaluating and Improving Compositional Text-to-Visual Generation; 
+  author: Baiqi Li, Deepak Pathak, Jiayao Li, Yixin Fei, Kewen Wu, Xide Xia, Graham Neubig, Pengchuan Zhang, Zhiqiu Lin, Deva Ramanan.
 
-- name: Quantitative
-  i18n: Quantitative
-  desc: Quantitative methods that accurately reflect human judgments.
+- name: TlTScore
+  i18n: TlTScore
+  desc: "TlTScore: Towards Long-Tail Effects in Text-to-Visual Evaluation with Generative Foundation Models;"
+  author: Pengliang Ji, Junchen Liu.
 
-- name: existing
-  i18n: existing
-  desc: Pros and Cons analyses of existing evaluation techniques and benchmarks
+- name: Evaluating_2
+  i18n: Evaluating_2
+  desc: Evaluating Multimodal Large Language Models across Distribution Shifts and Augmentations; 
+  author: Aayush Atul Verma, Amir Saeidi, Shamanthak Hegde, Ajay Therala, Fenil Denish Bardoliya, Nagaraju Machavarapu, Shri Ajay Kumar Ravindhiran, Srija Malyala, Agneet Chatterjee, Yezhou Yang, Chitta Baral.
 
-- name: challenges 
-  i18n: challenges 
-  desc: Discussion of unique challenges of multimodal GenFM evaluation 
+- name: Towards 
+  i18n: Towards 
+  desc: Towards Quantitative Evaluation Metrics for Image Editing Approaches;
+  author: Dana Cohen Hochberg, Oron Anschel, Alon Shoshan, Igor Kviatkovsky, Manoj Aggarwal, Gerard G Medioni.
 
-- name: Quantification
-  i18n: Quantification
-  desc: Quantification of interplay between modalities and the emergence of new information within GenFMs
+- name: ReMOVE
+  i18n: ReMOVE
+  desc: "ReMOVE: A Reference-free Metric for Object Erasure;"
+  author: Aditya Chandrasekar, Goirik Chakrabarty, Jai Bardhan, Ramya Hebbalaguppe, Prathosh A P.
 
-- name: Exploration
-  i18n: Exploration
-  desc: Exploration of techniques to leverage automated evaluation for model refinement
+- name: T2VBench
+  i18n: T2VBench
+  desc: "T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation;"
+  author: Pengliang Ji, Chuyang Xiao, Huilin Tai, Mingxiao Huo.

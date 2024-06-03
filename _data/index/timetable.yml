@@ -19,7 +19,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Keynote 1 
+    detail: Keynote, Ludwig Schmidt 
   desc:
     detail: 
     host: 
@@ -28,7 +28,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Keynote 2 
+    detail: Keynote, Ranjay Krishna
   desc:
     detail: 
     host: 
@@ -37,21 +37,48 @@
   icon: fa-microphone 
 
 - name:
-    detail: Keynote 3
+    detail: Keynote, Hanwang Zhang
   desc:
-    detail: 
+    detail: Road to Level 5 MM Generalist
     host: 
   date:
     detail: Jun 18, 14:30 - 15:00 PDT
   icon: fa-microphone 
 
 - name:
-    detail: Keynote 4
+    detail: Spotlight Presentations
   desc:
     detail: 
     host: 
   date:
-    detail: Jun 18, 15:00 - 15:25 PDT
+    detail: Jun 18, 15:00 - 15:15 PDT
+  icon: fa-microphone 
+
+- name:
+    detail: Poster Session, Coffee Break
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: Jun 18, 15:15 - 15:45 PDT
+  icon: fa-coffee
+
+- name:
+    detail: Keynote, Leonid Karlinsky
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: Jun 18, 15:45 - 16:15 PDT
+  icon: fa-microphone 
+
+- name:
+    detail: Oral Presentation, Jaemin Cho
+  desc:
+    detail: Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation
+    host: 
+  date:
+    detail: Jun 18, 16:15 - 16:30 PDT
   icon: fa-microphone 
 
 - name:
@@ -60,29 +87,11 @@
     detail: 
     host: 
   date:
-    detail: Jun 18, 15:30 - 16:10 PDT
-  icon: fa-microphone 
+    detail: Jun 18, 16:30 - 17:00 PDT
+  icon: fa-comments-o 
 
 - name:
-    detail: Keynote 5
-  desc:
-    detail: 
-    host: 
-  date:
-    detail: Jun 18, 16:10 - 16:35 PDT
-  icon: fa-microphone 
-
-- name:
-    detail: Keynote 6
-  desc:
-    detail: 
-    host: 
-  date:
-    detail: Jun 18, 16:35 - 17:00 PDT
-  icon: fa-microphone 
-
-- name:
-    detail: Keynote 7
+    detail: Keynote, Sadeep Jayasumana
   desc:
     detail: 
     host: 
@@ -91,7 +100,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Keynote 8
+    detail: Keynote, Jungo Kasai
   desc:
     detail: 
     host: 
@@ -100,11 +109,21 @@
   icon: fa-microphone 
 
 - name:
-    detail: Poster Session
+    detail: Keynote, Bo Li
   desc:
     detail: 
     host: 
   date:
-    detail: Jun 18, 17:50 - 18:30 PDT
+    detail: Jun 18, 17:50 - 18:15 PDT
+  icon: fa-microphone 
+
+
+- name:
+    detail: Closing Remarks
+  desc:
+    detail: 
+    host: 
+  date:
+    detail: Jun 18, 18:15 - 18:30 PDT
   icon: fa-microphone 
 
