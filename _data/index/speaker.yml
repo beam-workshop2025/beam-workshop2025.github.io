@@ -3,10 +3,10 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 #
 
-- name: Tal Hassner
-  i18n: Hassner
-  img: /static/assets/img/landing/Tal_Hassner.jpeg
-  desc: Applied Research Lead at Facebook AI
+- name: Ludwig Schmidt
+  i18n: Schmidt
+  img: /static/assets/img/landing/Ludwig_Schmidt.jpeg
+  desc: Assistant Professor at University of Washington
 
 - name: Bo Li
   i18n: Li
