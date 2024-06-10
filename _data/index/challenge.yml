@@ -11,11 +11,6 @@
   desc: Evaluating and Improving Compositional Text-to-Visual Generation; 
   author: Baiqi Li, Deepak Pathak, Jiayao Li, Yixin Fei, Kewen Wu, Xide Xia, Graham Neubig, Pengchuan Zhang, Zhiqiu Lin, Deva Ramanan.
 
-- name: TlTScore
-  i18n: TlTScore
-  desc: "TlTScore: Towards Long-Tail Effects in Text-to-Visual Evaluation with Generative Foundation Models;"
-  author: Pengliang Ji, Junchen Liu.
-
 - name: Evaluating_2
   i18n: Evaluating_2
   desc: Evaluating Multimodal Large Language Models across Distribution Shifts and Augmentations; 
@@ -31,7 +26,3 @@
   desc: "ReMOVE: A Reference-free Metric for Object Erasure;"
   author: Aditya Chandrasekar, Goirik Chakrabarty, Jai Bardhan, Ramya Hebbalaguppe, Prathosh A P.
 
-- name: T2VBench
-  i18n: T2VBench
-  desc: "T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation;"
-  author: Pengliang Ji, Chuyang Xiao, Huilin Tai, Mingxiao Huo.

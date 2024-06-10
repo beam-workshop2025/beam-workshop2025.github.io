@@ -43,7 +43,7 @@
   img: /static/assets/img/landing/Besmira_Nushi.jpeg
   desc: Researcher at Microsoft Research
 
-- name: Ece Kamar 
-  i18n: Kamar
-  img: /static/assets/img/landing/Ece_Kamar.jpeg
-  desc: Managing Director at Microsoft Research
+- name: Lucas Beyer 
+  i18n: Beyer
+  img: /static/assets/img/landing/Lucas.jpg
+  desc: Staff Research Engineer at Google Brain
