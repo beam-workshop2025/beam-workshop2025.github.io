@@ -93,7 +93,7 @@
 - name:
     detail: Keynote, Sadeep Jayasumana
   desc:
-    detail: 
+    detail: "Rethinking FID: Towards a Better Evaluation Metric for Image Generation"
     host: 
   date:
     detail: Jun 18, 17:00 - 17:25 PDT
@@ -111,7 +111,7 @@
 - name:
     detail: Keynote, Bo Li
   desc:
-    detail: 
+    detail: Risk Assessment, Safety Alignment, and Guardrails for Generative Models
     host: 
   date:
     detail: Jun 18, 17:50 - 18:15 PDT
