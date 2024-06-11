@@ -40,6 +40,7 @@
     detail: Keynote, Hanwang Zhang
   desc:
     detail: Road to Level 5 MM Generalist
+    abstract: https://docs.google.com/document/d/1Cn7LxwOUBBpPaB_6i3RBLmJ0Ku3c6IXzXAgVxH9Ltso/edit?usp=sharing
     host: 
   date:
     detail: Jun 18, 14:30 - 15:00 PDT
@@ -66,7 +67,7 @@
 - name:
     detail: Keynote, Leonid Karlinsky
   desc:
-    detail: 
+    detail: Analyzing the Root Causes and Improving Fine-Grained and Compositional Reasoning in Multimodal Foundation Models
     host: 
   date:
     detail: Jun 18, 15:45 - 16:15 PDT
@@ -94,6 +95,7 @@
     detail: Keynote, Sadeep Jayasumana
   desc:
     detail: "Rethinking FID: Towards a Better Evaluation Metric for Image Generation"
+    abstract: https://docs.google.com/document/d/1kFrxwn6ip7MeYoiVR3lQokZ8o6_WDDnkyDyD672PYFI/edit?usp=sharing
     host: 
   date:
     detail: Jun 18, 17:00 - 17:25 PDT
@@ -112,6 +114,7 @@
     detail: Keynote, Bo Li
   desc:
     detail: Risk Assessment, Safety Alignment, and Guardrails for Generative Models
+    abstract: https://docs.google.com/document/d/1TWEIykZChO_pK5PRJNRKBiFy4kSKrrae27ozp-nAjM8/edit?usp=sharing
     host: 
   date:
     detail: Jun 18, 17:50 - 18:15 PDT
