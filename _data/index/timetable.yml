@@ -74,9 +74,10 @@
   icon: fa-microphone 
 
 - name:
-    detail: Oral Presentation, Jaemin Cho
+    detail: Oral Presentation, Linjie Li
   desc:
     detail: Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation
+    abstract: https://docs.google.com/document/d/14N52BEkLrQpGth9e3xHEmUWiracgBULL5v-kmqOV_dI/edit?usp=sharing
     host: 
   date:
     detail: Jun 18, 16:15 - 16:30 PDT
