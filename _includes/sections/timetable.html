@@ -43,6 +43,9 @@
                                 {% endif %}
                             {% endif %}
                         {% endif %}
+                        {% if timetable.desc.abstract %}
+                            <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.abstract}}" target="_blank">Abstract</a></span>
+                        {% endif %}
                         {% if timetable.desc.host %}
                             <span data-i18n="timetable.{{ timetable.desc.i18n }}">(Hosted by {{timetable.desc.host}})</span>
                         {% endif %}
