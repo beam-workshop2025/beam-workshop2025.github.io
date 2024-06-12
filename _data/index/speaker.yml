@@ -12,7 +12,6 @@
   i18n: Li
   img: /static/assets/img/landing/bo_li.png
   desc: Associate Professor at University of Chicago
-  abstract: https://docs.google.com/document/d/1TWEIykZChO_pK5PRJNRKBiFy4kSKrrae27ozp-nAjM8/edit?usp=sharing
 
 - name: Ranjay Krishna
   i18n: Krishna
@@ -27,7 +26,7 @@
 - name: Leonid Karlinsky 
   i18n: Karlinsky
   img: /static/assets/img/landing/Leonid_Karlinsky.jpeg
-  desc: Principal Research Scientist in the MIT-IBM lab
+  desc: Principal Research Scientist at IBM Research
 
 - name: Jungo Kasai 
   i18n: Kasai
