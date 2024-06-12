@@ -105,7 +105,8 @@
 - name:
     detail: Keynote, Jungo Kasai
   desc:
-    detail: 
+    detail: "Dramatic Five Years of AI and NLP: Evaluation and the Future of Foundation Models"
+    abstract: https://docs.google.com/document/d/1pJCkTAHHCfJUv42aNPQYMQlwhe7XLOlfl3Py-llOyLY/edit?usp=sharing
     host: 
   date:
     detail: Jun 18, 17:25 - 17:50 PDT
