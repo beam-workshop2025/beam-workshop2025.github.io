@@ -30,7 +30,8 @@
 - name:
     detail: Keynote, Ranjay Krishna
   desc:
-    detail: 
+    detail: Evaluating and Improving Compositionality in Vision and Language
+    abstract: https://docs.google.com/document/d/1s_sGcsx9_LELEt-3Ob7DMe_51gOapG7Q0dV3fjpZ2QU/edit?usp=sharing
     host: 
   date:
     detail: Jun 18, 14:00 - 14:30 PDT
@@ -68,6 +69,7 @@
     detail: Keynote, Leonid Karlinsky
   desc:
     detail: Analyzing the Root Causes and Improving Fine-Grained and Compositional Reasoning in Multimodal Foundation Models
+    abstract: https://docs.google.com/document/d/1-q0UfUSZEyLhLkfO47-7MC-a29oriPzUpjO5RLNHtPI/edit?usp=sharing
     host: 
   date:
     detail: Jun 18, 15:45 - 16:15 PDT
