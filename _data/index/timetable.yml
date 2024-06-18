@@ -21,7 +21,7 @@
 - name:
     detail: Keynote, Ludwig Schmidt 
   desc:
-    detail: 
+    detail: "DataComp: Evaluating Training Sets for Multimodal Models"
     host: 
   date:
     detail: Jun 18, 13:30 - 14:00 PDT
@@ -30,7 +30,7 @@
 - name:
     detail: Keynote, Ranjay Krishna
   desc:
-    detail: Evaluating and Improving Compositionality in Vision and Language
+    detail: The past, Present, and Future of Vision-Language Evaluation
     abstract: https://docs.google.com/document/d/1s_sGcsx9_LELEt-3Ob7DMe_51gOapG7Q0dV3fjpZ2QU/edit?usp=sharing
     host: 
   date:
