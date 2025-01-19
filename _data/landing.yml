@@ -6,29 +6,35 @@
   tpl: about.html
   css:
 
-- id: Timetable 
-  i18n: nav.timetable
-  name: schedule 
-  tpl: timetable.html
-  css: timetable
+- id: Topics
+  i18n: nav.topics
+  name: topics
+  tpl: topics.html
+  css: topics
 
-- id: Speaker 
+- id: Speakers
   i18n: nav.speaker
   name: speakers
   tpl: speaker.html
   css: speaker
 
-- id: Topics 
-  i18n: nav.challenge
-  name: topics
-  tpl: challenge.html
-  css: challenge
+# - id: Timetable
+#   i18n: nav.timetable
+#   name: schedule
+#   tpl: timetable.html
+#   css: timetable
 
-- id: PC
-  i18n: nav.pc
-  name: pc
-  tpl: pc.html
-  css: pc 
+- id: Submission
+  i18n: nav.submission
+  name: submission
+  tpl: submission.html
+  css: submission
+
+# - id: PC
+#   i18n: nav.pc
+#   name: pc
+#   tpl: pc.html
+#   css: pc
 
 - id: Organizers
   i18n: nav.organizer

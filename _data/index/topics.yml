@@ -1,0 +1,17 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- header: Challenges in Multimodal AI Evaluation
+  desc: Discussion on current limitations in unimodal benchmarks and the need for integrated assessments.
+
+- header: Designing Multimodal Benchmarks
+  desc: Strategies for creating realistic and comprehensive multimodal tasks that mimic real-world interactions.
+
+- header: Ethical and Fair AI Evaluation
+  desc: Addressing biases and ensuring fairness in AI performance across diverse demographic groups.
+
+- header: Multimodal AI in Real-World Applications
+  desc: Case studies illustrating the importance of multimodal AI systems in various industries.
+
+- header: Future Directions in AI Benchmarking
+  desc: Exploring potential advancements and innovations in AI evaluation techniques.

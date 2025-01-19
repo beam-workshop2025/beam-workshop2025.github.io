@@ -1,63 +1,60 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: EVGENFM2024
-description: The Official Site for the First Workshop on the Evaluation of Generative Foundation Models
-keywords: Generative Foundation Models, Evaluation, CVPRW 
-baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://evgenfm.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
-img_path: /evgenfm/CVPRW2024/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+title: BEAM2025
+description: "The Official Site for the First Workshop on Expanding Horizons in AI Benchmarking: Multimodal Approaches"
+keywords: Multimodal Foundation Models, Evaluation, CVPRW
+baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+# url: https://evgenfm.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+url: http://127.0.0.1:4000
+img_path: /evgenfm/CVPRW2024/static/assets/img/blog # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
-  name: EVGENFM2024  # Be used at blog posts' author.
-  first_name:   # Be used at index page about me section.
-  last_name: EVGENFM2024  # Be used at index page about me section.
+author: # change following line to your infomation.
+  name: BEAM2025 # Be used at blog posts' author.
+  first_name: # Be used at index page about me section.
+  last_name: BEAM2025 # Be used at index page about me section.
   #avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   #github_username: jarrekk  # Leave blank if you don't have now
   #linkedin_id: jarrekk # Leave blank if you don't have now
   #facebook_username: jiakunnj  # Leave blank if you don't have now
   #twitter_username: jiakun614  # Leave blank if you don't have now
-  email: zontakm@amazon.com  # Leave blank if you don't have now
+  # email: zontakm@amazon.com  # Leave blank if you don't have now
   #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  desc: 
+  # TODO: this needs to be rephrased to sound more exciting
+  desc: |-
     <p>
-    <span style="color:red"> Workshop Time, June 18 2024, 1pm - 6:30pm PDT <br><br>
+    <span style="color:red"> Workshop Time, June 11th - June 15th, 2025 9am - 12:40pm (details TBD) <br><br>
 
-    Workshop location, Seattle Convention Center | Summit 433 <br><br> </span>
-    
-    The landscape of artificial intelligence is being transformed by the advent of Generative Foundation Models (GenFMs), such as Large Language Models (LLMs) and diffusion models. GenFMs offer unprecedented opportunities to enrich human lives and transform industries. However, they also pose significant challenges, including the generation of factually incorrect or biased information, which might be potentially harmful or misleading. With the emergence of multimodal GenFMs, which leverage and generate content in an increasing number of modalities, these challenges are set to become even more complex. This emphasizes the urgent need for rigorous and effective evaluation methodologies. <br><br>
+    Workshop location, Music City Center and Online (Hybrid) | Room TBD <br><br> </span>
 
-    The 1st Workshop on Evaluation for Generative Foundation Models at CVPR 2024 aims to build a forum to discuss ongoing efforts in industry and academia, share best practices, and engage the community in working towards more reliable and scalable approaches for GenFMs evaluation. <br><br></p>
+    The event will feature discussions highlighting the evolution and future of multimodal AI benchmarks, exploring methodologies and their real-world applications. It will conclude with a dynamic panel discussion, offering insights into the challenges and solutions for creating robust multimodal benchmarks and fostering interdisciplinary collaboration and innovation in AI benchmarking standards. <br><br>
 
-
-
-
+    The 1st Workshop on Expanding Horizons in AI Benchmarking: Multimodal Approaches at CVPR 2025 aims to build a forum to discuss ongoing efforts in industry and academia, share best practices, and engage the community in working towards more comprehensive AI evaluation framework incorporating audio, visual, and textual inputs, addressing the limitations of current unimodal benchmarks. <br><br></p>
 # comment
-  disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: EVGENFM2024
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+# name: EVGENFM2024
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id:
+# ga:# if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+# id:
 
 ## google optimize
-go:
-  # id:
+# go:
+# id:
 
 ## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
+# gio:# if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+# id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: on # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+index_carousel: on # index page carousel switch
+blog_carousel: on # blog page carousel switch
 
 # scss
 sass:
@@ -72,4 +69,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-

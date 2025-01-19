@@ -1,42 +1,96 @@
 # links section data
-- last_name: Zontak 
-  first_name: Maria
+- last_name: A. Jeni
+  first_name: Laszlo
+  desc: CMU (Primary Contact)
+  website: https://laszlojeni.com/
+  email: laszlojeni@cmu.edu
+
+- last_name: Ziyadi
+  first_name: Morteza
+  desc: Amazon
+  website: https://www.linkedin.com/in/morteza-ziyadi-a3818ba9/
+  email: mziyadi@amazon.com
+
+- last_name: Yang
+  first_name: Hao
+  desc: Amazon
+  website: https://sites.google.com/site/lancelot365
+  email: haoyng@amazon.com
+
+- last_name: Zhang
+  first_name: Xu
   desc: Amazon (Primary Contact)
+  website: https://xu-zhang-1987.github.io/
+  email: xzhnamz@amazon.com
+
+- last_name: Zou
+  first_name: Yang
+  desc: Amazon
+  website: https://yzou2.github.io/
+  email: yanzo@amazon.com
+
+- last_name: Cai
+  first_name: Zhaowei
+  desc: Amazon
+  website: https://zhaoweicai.github.io/
+  email: zhaoweic@amazon.com
+
+- last_name: Zontak
+  first_name: Maria
+  desc: Amazon
   website: https://www.linkedin.com/in/maria-zontak-0272135/
   email: zontakm@amazon.com
 
-- last_name: Zhang 
-  first_name: Xu
+- last_name: Modolo
+  first_name: Davide
   desc: Amazon
-  website: https://xu-zhang-1987.github.io/
-  email: xzhnamz@amazon.com 
+  website: https://davidemodolo.wordpress.com/
+  email: dmodolo@amazon.com
 
-- last_name: Seyfioglu 
-  first_name: Mehmet Saygin 
-  desc: University of Washington
-  website: https://mehmetsayginseyfioglu.github.io/
-  email: msaygin@cs.washington.edu
-
-- last_name: Li
-  first_name: Erran 
+- last_name: Swaminathan
+  first_name: Ashwin
   desc: Amazon
-  website: https://linkedin.com/in/li-erran-li-552aa217
-  email: lilimam@amazon.com
+  website: https://www.linkedin.com/in/ashwinsw/
+  email: swashwin@amazon.com
 
-- last_name: Hood
-  first_name: Bahar Erar 
-  desc: Amazon 
-  website: https://linkedin.com/in/baharerar/
-  email: baharh@amazon.com
-
-- last_name: Kumar
-  first_name: Suren 
-  desc: Samsung 
-  website: https://www.linkedin.com/in/suren-kumar-b845286/
-  email: ssurkum@amazon.com
-
-- last_name: Bouyarmane
-  first_name: Karim 
+- last_name: Swaminathan
+  first_name: Ashwin
   desc: Amazon
-  website: https://linkedin.com/in/karim-bouyarmane/ 
-  email: bouykari@amazon.com
+  website: https://www.linkedin.com/in/ashwinsw/
+  email: swashwin@amazon.com
+
+- last_name: Xie
+  first_name: Liuyue
+  desc: CMU
+  website: https://louisexie.simple.ink/
+  email: liuyuex@andrew.cmu.edu
+
+- last_name: Dabhi
+  first_name: Mosam
+  desc: CMU
+  website: https://mosamdabhi.github.io/
+  email: mdabhi@andrew.cmu.edu
+
+- last_name: Yue
+  first_name: Xiang
+  desc: CMU
+  website: https://xiangyue9607.github.io/
+  email: xyue2@andrew.cmu.edu
+
+- last_name: Zheng
+  first_name: Ce
+  desc: CMU
+  website: https://zczcwh.github.io/
+  email: cezheng@andrew.cmu.edu
+
+- last_name: Choudhury
+  first_name: Rohan
+  desc: CMU
+  website: https://rccchoudhury.github.io/
+  email: rchoudhu@andrew.cmu.edu
+
+- last_name: Bal
+  first_name: Ananya
+  desc: CMU
+  website: https://ananyabal.github.io/
+  email: abal@andrew.cmu.edu

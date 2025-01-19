@@ -1,136 +1,91 @@
 # schedules section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Gathering + Posters Arrangement 
+    detail: Gathering + Posters Arrangement
   desc:
-    detail: 
-    host: 
+    detail:
+    host:
   date:
-    detail: Jun 18, 13:00 - 13:20 PDT
-  icon: fa-microphone 
+    detail: 8:40 - 9:00 EDT
+  icon: fa-microphone
 
 - name:
-    detail: Opening Remarks 
+    detail: Opening Remarks
   desc:
-    detail: 
-    host: 
+    detail:
+    host:
   date:
-    detail: Jun 18, 13:20 - 13:30 PDT
-  icon: fa-microphone 
+    detail: 9:00 - 9:10 EDT
+  icon: fa-microphone
 
 - name:
-    detail: Keynote, Ludwig Schmidt 
+    detail: Keynote, Huaxiu Yao
   desc:
-    detail: "DataComp: Evaluating Training Sets for Multimodal Models"
-    host: 
+    detail: TBA
+    host:
   date:
-    detail: Jun 18, 13:30 - 14:00 PDT
-  icon: fa-microphone 
+    detail: 9:10 - 9:40 EDT
+  icon: fa-microphone
 
 - name:
-    detail: Keynote, Ranjay Krishna
+    detail: Oral Session
   desc:
-    detail: The past, Present, and Future of Vision-Language Evaluation
-    abstract: https://docs.google.com/document/d/1s_sGcsx9_LELEt-3Ob7DMe_51gOapG7Q0dV3fjpZ2QU/edit?usp=sharing
-    host: 
+    detail:
+    host:
   date:
-    detail: Jun 18, 14:00 - 14:30 PDT
-  icon: fa-microphone 
-
-- name:
-    detail: Keynote, Hanwang Zhang
-  desc:
-    detail: Road to Level 5 MM Generalist
-    abstract: https://docs.google.com/document/d/1Cn7LxwOUBBpPaB_6i3RBLmJ0Ku3c6IXzXAgVxH9Ltso/edit?usp=sharing
-    host: 
-  date:
-    detail: Jun 18, 14:30 - 15:00 PDT
-  icon: fa-microphone 
-
-- name:
-    detail: Spotlight Presentations
-  desc:
-    detail: 
-    host: 
-  date:
-    detail: Jun 18, 15:00 - 15:15 PDT
-  icon: fa-microphone 
+    detail: 9:40 - 10:00 EDT
+  icon: fa-microphone
 
 - name:
     detail: Poster Session, Coffee Break
   desc:
-    detail: 
-    host: 
+    detail:
+    host:
   date:
-    detail: Jun 18, 15:15 - 15:45 PDT
+    detail: 10:00 - 10:30 EDT
   icon: fa-coffee
 
 - name:
-    detail: Keynote, Leonid Karlinsky
+    detail: Keynote, Andre Araujo
   desc:
-    detail: Analyzing and Improving Compositional Reasoning in Multi-Modal Foundation Models
-    abstract: https://docs.google.com/document/d/1-q0UfUSZEyLhLkfO47-7MC-a29oriPzUpjO5RLNHtPI/edit?usp=sharing
-    host: 
+    detail: TBA
+    host:
   date:
-    detail: Jun 18, 15:45 - 16:15 PDT
-  icon: fa-microphone 
+    detail: 10:30 - 11:00 EDT
+  icon: fa-microphone
 
 - name:
-    detail: Oral Presentation, Linjie Li
+    detail: Keynote, Sherry Tongshuang Wu
   desc:
-    detail: Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation
-    abstract: https://docs.google.com/document/d/14N52BEkLrQpGth9e3xHEmUWiracgBULL5v-kmqOV_dI/edit?usp=sharing
-    host: 
+    detail: TBA
+    host:
   date:
-    detail: Jun 18, 16:15 - 16:30 PDT
-  icon: fa-microphone 
+    detail: 11:00 - 11:30 EDT
+  icon: fa-microphone
 
 - name:
-    detail: Panel Discussion
+    detail: Keynote, Invited Paper Presentation from Main Conference
   desc:
-    detail: 
-    host: 
+    detail: TBA
+    host:
   date:
-    detail: Jun 18, 16:30 - 17:00 PDT
-  icon: fa-comments-o 
+    detail: 11:30 - 12:00 EDT
+  icon: fa-microphone
 
 - name:
-    detail: Keynote, Sadeep Jayasumana
+    detail: Keynote, Katerina Fragkiadaki
   desc:
-    detail: "Rethinking FID: Towards a Better Evaluation Metric for Image Generation"
-    abstract: https://docs.google.com/document/d/1kFrxwn6ip7MeYoiVR3lQokZ8o6_WDDnkyDyD672PYFI/edit?usp=sharing
-    host: 
+    detail: TBA
+    host:
   date:
-    detail: Jun 18, 17:00 - 17:25 PDT
-  icon: fa-microphone 
-
-- name:
-    detail: Keynote, Jungo Kasai
-  desc:
-    detail: "Dramatic Five Years of AI and NLP: Evaluation and the Future of Foundation Models"
-    abstract: https://docs.google.com/document/d/1pJCkTAHHCfJUv42aNPQYMQlwhe7XLOlfl3Py-llOyLY/edit?usp=sharing
-    host: 
-  date:
-    detail: Jun 18, 17:25 - 17:50 PDT
-  icon: fa-microphone 
-
-- name:
-    detail: Keynote, Bo Li
-  desc:
-    detail: Risk Assessment, Safety Alignment, and Guardrails for Generative Models
-    abstract: https://docs.google.com/document/d/1TWEIykZChO_pK5PRJNRKBiFy4kSKrrae27ozp-nAjM8/edit?usp=sharing
-    host: 
-  date:
-    detail: Jun 18, 17:50 - 18:15 PDT
-  icon: fa-microphone 
-
+    detail: 12:00 - 12:30 EDT
+  icon: fa-microphone
 
 - name:
     detail: Closing Remarks
   desc:
-    detail: 
-    host: 
+    detail:
+    host:
   date:
-    detail: Jun 18, 18:15 - 18:30 PDT
-  icon: fa-microphone 
-
+    detail: 12:30 - 12:40 EDT
+  icon: fa-microphone

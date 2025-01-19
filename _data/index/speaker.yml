@@ -3,47 +3,18 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 #
 
-- name: Ludwig Schmidt
-  i18n: Schmidt
-  img: /static/assets/img/landing/Ludwig_Schmidt.jpeg
-  desc: Assistant Professor at University of Washington
+- name: Huaxiu Yao
+  img: /static/assets/img/landing/Huaxiu_Yao.webp
+  desc: Assistant Professor at University of North Carolina at Chapel Hill
 
-- name: Bo Li
-  i18n: Li
-  img: /static/assets/img/landing/bo_li.png
-  desc: Associate Professor at University of Chicago
+- name: Andre Araujo
+  img: /static/assets/img/landing/Andre_Araujo.jpg
+  desc: Staff Research Scientist / Tech Lead Manager at Google DeepMind
 
-- name: Ranjay Krishna
-  i18n: Krishna
-  img: /static/assets/img/landing/Ranjay_Krishna.png
-  desc: Associate Professor at University of Washington
+- name: Sherry Tongshuang Wu
+  img: /static/assets/img/landing/Sherry_Tongshuang_Wu.png
+  desc: Assistant Professor at Carnegie Mellon University
 
-- name: Hanwang Zhang 
-  i18n: Zhang
-  img: /static/assets/img/landing/Hanwang_Zhang.png
-  desc: Associate Professor at Nanyang Technological University
-
-- name: Leonid Karlinsky 
-  i18n: Karlinsky
-  img: /static/assets/img/landing/Leonid_Karlinsky.jpeg
-  desc: Principal Research Scientist at IBM Research
-
-- name: Jungo Kasai 
-  i18n: Kasai
-  img: /static/assets/img/landing/Jungo_Kasai.png
-  desc: Co-founder & CTO at Kotoba Technologies, Inc.
-
-- name: Sadeep Jayasumana 
-  i18n: Jayasumana
-  img: /static/assets/img/landing/Sadeep_Jayasumana.jpeg
-  desc: Staff Research Scientist at Google Research
-
-- name: Besmira Nushi 
-  i18n: Nushi
-  img: /static/assets/img/landing/Besmira_Nushi.jpeg
-  desc: Researcher at Microsoft Research
-
-- name: Lucas Beyer 
-  i18n: Beyer
-  img: /static/assets/img/landing/Lucas.jpg
-  desc: Staff Research Engineer at Google Brain
+- name: Katerina Fragkiadaki
+  img: /static/assets/img/landing/Katerina_Fragkiadaki.png
+  desc: JPMorgan Chase Associate Professor at Carnegie Mellon University

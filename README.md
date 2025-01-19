@@ -1,1 +1,1 @@
-The Official Site for the First Workshop on the Evaluation of Generative Foundation Models at CVPR 2024.
+The Official Site for the First Workshop on Expanding Horizons in AI Benchmarking: Multimodal Approaches at CVPR 2025.
