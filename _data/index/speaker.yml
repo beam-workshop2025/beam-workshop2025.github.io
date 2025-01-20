@@ -4,11 +4,11 @@
 #
 
 - name: Huaxiu Yao
-  img: /static/assets/img/landing/Huaxiu_Yao.webp
+  img: /static/assets/img/landing/Huaxiu_Yao.png
   desc: Assistant Professor at University of North Carolina at Chapel Hill
 
 - name: Andre Araujo
-  img: /static/assets/img/landing/Andre_Araujo.jpg
+  img: /static/assets/img/landing/Andre_Araujo.png
   desc: Staff Research Scientist / Tech Lead Manager at Google DeepMind
 
 - name: Sherry Tongshuang Wu
