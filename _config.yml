@@ -2,7 +2,7 @@
 
 # Website settings
 title: BEAM2025
-description: "The Official Site for the First Workshop on Expanding Horizons in AI Benchmarking: Multimodal Approaches"
+description: "The Official Site for the First Workshop on Benchmarking and Expanding AI Multimodal Approaches"
 keywords: Multimodal Foundation Models, Evaluation, CVPRW
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 # url: https://evgenfm.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -31,7 +31,7 @@ author: # change following line to your infomation.
 
     The event will feature discussions highlighting the evolution and future of multimodal AI benchmarks, exploring methodologies and their real-world applications. It will conclude with a dynamic panel discussion, offering insights into the challenges and solutions for creating robust multimodal benchmarks and fostering interdisciplinary collaboration and innovation in AI benchmarking standards. <br><br>
 
-    As a continuation of the 1st Workshop on Evauation for Generative Foundation Models at CVPR 2024, the 1st Workshop on Expanding Horizons in AI Benchmarking: Multimodal Approaches at CVPR 2025 aims to build a forum to discuss ongoing efforts in industry and academia, share best practices, and engage the community in working towards more comprehensive AI evaluation framework incorporating audio, visual, and textual inputs, addressing the limitations of current unimodal benchmarks. <br><br>
+    As a continuation of the 1st Workshop on Evaluation for Generative Foundation Models at CVPR 2024, the 1st Workshop on Benchmarking and Expanding AI Multimodal Approaches at CVPR 2025 aims to build a forum to discuss ongoing efforts in industry and academia, share best practices, and engage the community in working towards more comprehensive AI evaluation framework incorporating audio, visual, and textual inputs, addressing the limitations of current unimodal benchmarks. <br><br>
     </p>
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
