@@ -30,11 +30,11 @@
   tpl: submission.html
   css: submission
 
-# - id: PC
-#   i18n: nav.pc
-#   name: pc
-#   tpl: pc.html
-#   css: pc
+- id: PC
+  i18n: nav.pc
+  name: pc
+  tpl: pc.html
+  css: pc
 
 - id: Organizers
   i18n: nav.organizer
