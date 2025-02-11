@@ -1,7 +1,7 @@
 # schedules section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: OpenReview Site Open
+    detail: CMT Site Open
   date:
     detail: TBA
   desc:
@@ -11,17 +11,17 @@
 - name:
     detail: Submission Deadline
   date:
-    detail: Mar 10, 23:59 PST
+    detail: Mar 11, (Anywhere on Earth)
   icon: fa-calendar
 
 - name:
-    detail: Final Decisions
+    detail: Notification
   date:
-    detail: Apr 25, 23:59 PST
+    detail: Mar 25, (Anywhere on Earth)
   icon: fa-calendar
 
 - name:
     detail: Camera Ready Deadline
   date:
-    detail: Apr 1, 23:59 PST
+    detail: Apr 5, (Anywhere on Earth)
   icon: fa-calendar
