@@ -1,17 +1,26 @@
 # speaker section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- desc: "We invite submissions of full-length papers (8 pages excluding the references) for workshop proceedings. The topics covered in the workshop include but are not limited to:"
+
 - header: Challenges in Multimodal AI Evaluation
-  desc: Discussion on current limitations in unimodal benchmarks and the need for integrated assessments.
+  desc: Current limitations and the need for integrated assessments.
 
 - header: Designing Multimodal Benchmarks
-  desc: Strategies for creating realistic and comprehensive multimodal tasks that mimic real-world interactions.
+  desc: Strategies for creating realistic and comprehensive tasks.
 
 - header: Ethical and Fair AI Evaluation
-  desc: Addressing biases and ensuring fairness in AI performance across diverse demographic groups.
+  desc: Addressing biases to ensure fairness across different demographic groups.
 
 - header: Multimodal AI in Real-World Applications
-  desc: Case studies illustrating the importance of multimodal AI systems in various industries.
+  desc: Case studies demonstrating the application of multimodal systems.
 
 - header: Future Directions in AI Benchmarking
-  desc: Exploring potential advancements and innovations in AI evaluation techniques.
+  desc: Innovative methods and technologies.
+
+- desc: |
+    All submissions should follow the CVPR 2025 instructions. The papers will be subject to a double-blind review process, i.e. authors must not identify themselves on the submitted papers. The reviewing process is single-stage without rebuttals. <br /> <br />
+    Online Submission System: CMT (coming soon). <br />
+    Submission Format: official CVPR template (double column; no more than 8 pages, excluding reference). <br /> <br />
+
+    The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
