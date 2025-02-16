@@ -20,7 +20,7 @@
 
 - desc: |
     All submissions should follow the CVPR 2025 instructions. The papers will be subject to a double-blind review process, i.e. authors must not identify themselves on the submitted papers. The reviewing process is single-stage without rebuttals. <br /> <br />
-    Online Submission System: CMT (coming soon). <br />
+    Online Submission System: <a href="https://cmt3.research.microsoft.com/BEAM2025/" target="_blank">CMT</a> <br />
     Submission Format: official CVPR template (double column; no more than 8 pages, excluding reference). <br /> <br />
 
-    The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+    The <a href="https://cmt3.research.microsoft.com" target="_blank">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
