@@ -6,12 +6,12 @@
     detail: Feb 16
   desc:
     video: https://cmt3.research.microsoft.com/BEAM2025/
-  icon: fa-calendar
+    icon: fa-calendar
 
 - name:
     detail: Submission Deadline
   date:
-    detail: Mar 11, (Anywhere on Earth)
+    detail: <del>Mar 11</del> Mar 17, (Anywhere on Earth)
   icon: fa-calendar
 
 - name:
