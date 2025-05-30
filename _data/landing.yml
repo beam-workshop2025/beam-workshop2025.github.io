@@ -6,11 +6,17 @@
   tpl: about.html
   css:
 
-- id: Topics
-  i18n: nav.topics
-  name: topics
-  tpl: topics.html
-  css: topics
+# - id: Topics
+#   i18n: nav.topics
+#   name: topics
+#   tpl: topics.html
+#   css: topics
+
+- id: Timetable
+  i18n: nav.timetable
+  name: schedule
+  tpl: timetable.html
+  css: timetable
 
 - id: Speakers
   i18n: nav.speaker
@@ -18,17 +24,11 @@
   tpl: speaker.html
   css: speaker
 
-# - id: Timetable
-#   i18n: nav.timetable
-#   name: schedule
-#   tpl: timetable.html
-#   css: timetable
-
-- id: Submission
-  i18n: nav.submission
-  name: submission
-  tpl: submission.html
-  css: submission
+# - id: Submission
+#   i18n: nav.submission
+#   name: submission
+#   tpl: submission.html
+#   css: submission
 
 - id: PC
   i18n: nav.pc

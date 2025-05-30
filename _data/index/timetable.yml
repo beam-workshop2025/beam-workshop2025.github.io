@@ -1,39 +1,39 @@
 # schedules section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Gathering + Posters Arrangement
-  desc:
-    detail:
-    host:
-  date:
-    detail: 8:40 - 9:00 EDT
-  icon: fa-microphone
-
-- name:
     detail: Opening Remarks
   desc:
     detail:
     host:
   date:
-    detail: 9:00 - 9:10 EDT
+    detail: 8:30 - 8:40 EDT
   icon: fa-microphone
 
 - name:
-    detail: Keynote, Huaxiu Yao
+    detail: Invited Talk 1
   desc:
     detail: TBA
     host:
   date:
-    detail: 9:10 - 9:40 EDT
+    detail: 8:40 - 9:15 EDT
   icon: fa-microphone
 
 - name:
-    detail: Oral Session
+    detail: Invited Talk 2
+  desc:
+    detail: TBA
+    host:
+  date:
+    detail: 9:15 - 9:50 EDT
+  icon: fa-microphone
+
+- name:
+    detail: Oral Presentation
   desc:
     detail:
     host:
   date:
-    detail: 9:40 - 10:00 EDT
+    detail: 9:50 - 10:05 EDT
   icon: fa-microphone
 
 - name:
@@ -42,43 +42,43 @@
     detail:
     host:
   date:
-    detail: 10:00 - 10:30 EDT
+    detail: 10:05 - 10:45 EDT
   icon: fa-coffee
 
 - name:
-    detail: Keynote, Andre Araujo
+    detail: Invited Talk 3
   desc:
     detail: TBA
     host:
   date:
-    detail: 10:30 - 11:00 EDT
+    detail: 10:45 - 11:20 EDT
   icon: fa-microphone
 
 - name:
-    detail: Keynote, Sherry Tongshuang Wu
+    detail: Invited Paper Presentation from the Main Conference
   desc:
     detail: TBA
     host:
   date:
-    detail: 11:00 - 11:30 EDT
+    detail: 11:20 - 11:40 EDT
   icon: fa-microphone
 
 - name:
-    detail: Keynote, Invited Paper Presentation from Main Conference
+    detail: Benchmark Promotion
   desc:
-    detail: TBA
+    detail: 
     host:
   date:
-    detail: 11:30 - 12:00 EDT
-  icon: fa-microphone
+    detail: 11:40 - 11:45 EDT
+  icon: fa-bullhorn
 
 - name:
-    detail: Keynote, Katerina Fragkiadaki
+    detail: Invited Talk 4
   desc:
     detail: TBA
     host:
   date:
-    detail: 12:00 - 12:30 EDT
+    detail: 11:45 - 12:20 EDT
   icon: fa-microphone
 
 - name:
@@ -87,5 +87,5 @@
     detail:
     host:
   date:
-    detail: 12:30 - 12:40 EDT
+    detail: 12:20 - 12:30 EDT
   icon: fa-microphone
