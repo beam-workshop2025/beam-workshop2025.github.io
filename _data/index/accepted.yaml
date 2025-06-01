@@ -1,0 +1,48 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Behind
+  i18n: Behind
+  desc: "Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models;"
+  author: Andrés Villa, Juan Léon, Alvaro Soto, Bernard Ghanem.
+
+- name: Beyond
+  i18n: Beyond
+  desc: "Beyond Raw Videos: Understanding Edited Videos with Large Multimodal Model;"
+  author: Lu Xu, Sijie Zhu, Chunyuan Li, Chia-Wen Kuo, Fan Chen, Xinyao Wang, Guang Chen, Dawei Du, Ye Yuan, Longyin Wen.
+
+- name: Revisiting
+  i18n: Revisiting
+  desc: Revisiting Referring Expression Comprehension Evaluation in the Era of Large Multimodal Models; 
+  author: Jierun Chen, Fangyun Wei, Jinjing Zhao, Sizhe Song, Bohuai Wu, Zhuoxuan Peng, S.-H. Gary Chan, Hongyang Zhang.
+
+- name: TextInVision 
+  i18n: TextInVision 
+  desc: "TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark;"
+  author: Forouzan Fallah, Maitreya  Patel,  Agneet Chatterjee, Vlad Morariu , Chitta Baral, Yezhou Yang .
+
+- name: Choosing
+  i18n: Choosing
+  desc: "Choosing 'Right' from Wrong: A Closer Look at Selection Bias in Spatial Multiple-Choice Questions in Large Multimodal Models;"
+  author: Giselle Zeno, Nour Jedidi, Steven Gomez.
+
+- name: Quantum
+  i18n: Quantum
+  desc: "Quantum Federated Learning for Multimodal Data: A Modality-Agnostic Approach;"
+  author: Atit Pokharel, Ratun Rahman, Thomas Morris, Dinh C. Nguyen.
+
+- name: Revisiting_2
+  i18n: Revisiting_2
+  desc: Revisiting Multi-Modal LLM Evaluation;
+  author: Jian Lu, Junyu Chen, Robik Shrestha, Manoj Acharya, Kushal Kafle, Christopher Kanan.
+
+- name: MerCulture
+  i18n: MerCulture
+  desc: "MerCulture: A Comprehensive Benchmark to Evaluate Vision-Language Models on Cultural Understanding in Singapore;"
+  author: Pranav Tushar, Eshan Pandey, Lyka Diane Bala Austria, Loo Yin Yin, Jing Hao Lim, Indriyati  Atmosukarto, Donny Soh  Cheng Lock.
+
+- name: KOFFVQA
+  i18n: KOFFVQA
+  desc: "KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language;"
+  author: Yoonshik Kim, Jaeyoon Jung.
+

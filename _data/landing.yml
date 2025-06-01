@@ -24,6 +24,12 @@
   tpl: speaker.html
   css: speaker
 
+- id: Accepted
+  i18n: nav.accepted
+  name: Accepted Papers
+  tpl: accepted.html
+  css: accepted
+
 # - id: Submission
 #   i18n: nav.submission
 #   name: submission
