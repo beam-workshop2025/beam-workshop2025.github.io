@@ -10,7 +10,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Invited Talk 1
+    detail: Keynote, Katerina Fragkiadaki
   desc:
     detail: TBA
     host:
@@ -19,7 +19,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Invited Talk 2
+    detail: Keynote, Huaxiu Yao
   desc:
     detail: TBA
     host:
@@ -46,7 +46,7 @@
   icon: fa-coffee
 
 - name:
-    detail: Invited Talk 3
+    detail: Keynote, Andre Araujo
   desc:
     detail: TBA
     host:
@@ -73,7 +73,7 @@
   icon: fa-bullhorn
 
 - name:
-    detail: Invited Talk 4
+    detail: Keynote, Sherry Tongshuang Wu
   desc:
     detail: TBA
     host:
