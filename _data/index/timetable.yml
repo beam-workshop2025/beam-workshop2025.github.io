@@ -12,8 +12,8 @@
 - name:
     detail: Keynote, Katerina Fragkiadaki
   desc:
-    detail: TBA
-    host:
+    detail: "RobotArena: Towards Unlimited Robot Evaluation via Demonstration-to-Simulation Translation"
+    abstract: https://docs.google.com/document/d/1uoUJ3P1LSThhe4bvPTWnEY-pv5VoxTdnwx4_RIKDuJ0/edit?usp=sharing
   date:
     detail: 8:40 - 9:15 EDT
   icon: fa-microphone
@@ -48,8 +48,8 @@
 - name:
     detail: Keynote, Andre Araujo
   desc:
-    detail: TBA
-    host:
+    detail: What's missing in multimodal AI? Towards spatial awareness, effective tool use and fine-grained understanding
+    abstract: https://docs.google.com/document/d/1W5z2qtTLHo-v7oj3XHerSkpyXcRWBjU4YsqeU0FH7PE/edit?usp=sharing
   date:
     detail: 10:45 - 11:20 EDT
   icon: fa-microphone
