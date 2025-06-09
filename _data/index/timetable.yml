@@ -6,7 +6,7 @@
     detail:
     host:
   date:
-    detail: 8:30 - 8:40 EDT
+    detail: 8:30 - 8:40 CDT
   icon: fa-microphone
 
 - name:
@@ -15,7 +15,7 @@
     detail: "RobotArena: Towards Unlimited Robot Evaluation via Demonstration-to-Simulation Translation"
     abstract: https://docs.google.com/document/d/1uoUJ3P1LSThhe4bvPTWnEY-pv5VoxTdnwx4_RIKDuJ0/edit?usp=sharing
   date:
-    detail: 8:40 - 9:15 EDT
+    detail: 8:40 - 9:15 CDT
   icon: fa-microphone
 
 - name:
@@ -24,16 +24,20 @@
     detail: TBA
     host:
   date:
-    detail: 9:15 - 9:50 EDT
+    detail: 9:15 - 9:50 CDT
   icon: fa-microphone
 
 - name:
     detail: Oral Presentation
   desc:
-    detail:
+    detail: |
+      <ul>
+        <li><b>TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark:</b> Forouzan Fallah, Maitreya Patel, Agneet Chatterjee, Vlad Morariu, Chitta Baral, Yezhou Yang</li>
+        <li><b>Choosing 'Right' from Wrong: A Closer Look at Selection Bias in Spatial Multiple-Choice Questions in Large Multimodal Models:</b> Giselle Zeno, Nour Jedidi, Steven Gomez</li>
+      </ul>
     host:
   date:
-    detail: 9:50 - 10:05 EDT
+    detail: 9:50 - 10:05 CDT
   icon: fa-microphone
 
 - name:
@@ -42,7 +46,7 @@
     detail:
     host:
   date:
-    detail: 10:05 - 10:45 EDT
+    detail: 10:05 - 10:45 CDT
   icon: fa-coffee
 
 - name:
@@ -51,16 +55,42 @@
     detail: What's missing in multimodal AI? Towards spatial awareness, effective tool use and fine-grained understanding
     abstract: https://docs.google.com/document/d/1W5z2qtTLHo-v7oj3XHerSkpyXcRWBjU4YsqeU0FH7PE/edit?usp=sharing
   date:
-    detail: 10:45 - 11:20 EDT
+    detail: 10:45 - 11:20 CDT
   icon: fa-microphone
 
 - name:
     detail: Invited Paper Presentation from the Main Conference
   desc:
-    detail: TBA
+    detail: |
+      <ul>
+        <li>
+          <b>Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models</b>
+          <ul>
+            <li><b>Poster Session and Location:</b> Exhibit Hall D, Poster #348 @ Sun June 15th 10:30 -- 12:30 CDT (Poster Session 5)</li>
+            <li><a href="https://arxiv.org/pdf/2502.08636" target="_blank">Paper</a></li>
+          </ul>
+        </li>
+        <li>
+          <b>VISCO: Benchmarking Fine-Grained Critique and Correction Towards Self-Improvement in Visual Reasoning</b>
+          <ul>
+            <li><b>Poster Session and Location:</b> Exhibit Hall D, Poster #396 @ Fri June 13th 14:00 -- 16:00 CDT (Poster Session 2)</li>
+            <li><a href="https://arxiv.org/pdf/2412.02172" target="_blank">Paper</a></li>
+            <li><a href="https://drive.google.com/file/d/1boetLNn3nuiK2ZtyVrwxiLMVvr0Yb7yE/view?usp=sharing" target="_blank">Poster</a></li>
+          </ul>
+        </li>
+        <li>
+          <b>Towards Scalable Human-aligned Benchmark for Text-guided Image Editing</b>
+          <ul>
+            <li><b>Poster Session and Location:</b> Exhibit Hall D, Poster #238 @ Sat June 14th 17:00 -- 19:00 CDT (Poster Session 4)</li>
+            <li><a href="https://arxiv.org/pdf/2505.00502" target="_blank">Paper</a></li>
+            <li><a href="https://drive.google.com/file/d/17yUBACNH76sYO1_SoUwjizbYGos1WkWf/view?usp=sharing" target="_blank">Poster</a></li>
+            <li><a href="https://drive.google.com/file/d/13rBb-iz2CTprOhPXOJxJhSrFfInabV9e/view?usp=sharing" target="_blank">Slides</a></li>
+          </ul>
+        </li>
+      </ul> 
     host:
   date:
-    detail: 11:20 - 11:40 EDT
+    detail: 11:20 - 11:40 CDT
   icon: fa-microphone
 
 - name:
@@ -69,7 +99,7 @@
     detail: 
     host:
   date:
-    detail: 11:40 - 11:45 EDT
+    detail: 11:40 - 11:45 CDT
   icon: fa-bullhorn
 
 - name:
@@ -78,7 +108,7 @@
     detail: TBA
     host:
   date:
-    detail: 11:45 - 12:20 EDT
+    detail: 11:45 - 12:20 CDT
   icon: fa-microphone
 
 - name:
@@ -87,5 +117,5 @@
     detail:
     host:
   date:
-    detail: 12:20 - 12:30 EDT
+    detail: 12:20 - 12:30 CDT
   icon: fa-microphone
