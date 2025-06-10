@@ -19,10 +19,10 @@
   icon: fa-microphone
 
 - name:
-    detail: Keynote, Huaxiu Yao
+    detail: Keynote, Sherry Tongshuang Wu
   desc:
-    detail: TBA
-    host:
+    detail: Practical Evaluation of General-Purpose AI
+    abstract: https://docs.google.com/document/d/1g7oIUysTSE5USQ-6VCj4EWYEYzDGId2WCRqyInzrKn4/edit?usp=sharing
   date:
     detail: 9:15 - 9:50 CDT
   icon: fa-microphone
@@ -103,10 +103,10 @@
   icon: fa-bullhorn
 
 - name:
-    detail: Keynote, Sherry Tongshuang Wu
+    detail: Keynote, Huaxiu Yao
   desc:
-    detail: TBA
-    host:
+    detail: "From Generation to Feedback: Benchmark-Guided Reward Modeling and Closed-Loop Alignment for Multimodal Systems"
+    abstract: https://docs.google.com/document/d/1WhsHff3FNxw3oyNo-jfl-gElGN_7S9t-unh9zhwxpYg/edit?usp=sharing
   date:
     detail: 11:45 - 12:20 CDT
   icon: fa-microphone
