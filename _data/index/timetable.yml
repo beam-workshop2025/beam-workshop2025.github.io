@@ -1,7 +1,7 @@
 # schedules section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Opening Remarks
+    detail: Opening Remarks <br /> (Laszlo A. Jeni)
   desc:
     detail:
     host:
@@ -10,7 +10,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Keynote, Katerina Fragkiadaki
+    detail: Keynote, Katerina Fragkiadaki <br /> (Laszlo A. Jeni)
   desc:
     detail: "RobotArena: Towards Unlimited Robot Evaluation via Demonstration-to-Simulation Translation"
     abstract: https://docs.google.com/document/d/1uoUJ3P1LSThhe4bvPTWnEY-pv5VoxTdnwx4_RIKDuJ0/edit?usp=sharing
@@ -19,7 +19,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Keynote, Sherry Tongshuang Wu
+    detail: Keynote, Sherry Tongshuang Wu <br /> (Mosam Dahbi)
   desc:
     detail: Practical Evaluation of General-Purpose AI
     abstract: https://docs.google.com/document/d/1g7oIUysTSE5USQ-6VCj4EWYEYzDGId2WCRqyInzrKn4/edit?usp=sharing
@@ -28,7 +28,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Oral Presentation
+    detail: Oral Presentation <br /> (Yang Hao)
   desc:
     detail: |
       <ul>
@@ -41,7 +41,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Poster Session, Coffee Break
+    detail: Poster Session, Coffee Break <br /> (Ananya Bal)
   desc:
     detail:
     host:
@@ -50,7 +50,7 @@
   icon: fa-coffee
 
 - name:
-    detail: Keynote, Andre Araujo
+    detail: Keynote, Andre Araujo <br /> (Xu Zhang)
   desc:
     detail: What's missing in multimodal AI? Towards spatial awareness, effective tool use and fine-grained understanding
     abstract: https://docs.google.com/document/d/1W5z2qtTLHo-v7oj3XHerSkpyXcRWBjU4YsqeU0FH7PE/edit?usp=sharing
@@ -59,7 +59,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Invited Paper Presentation from the Main Conference
+    detail: Invited Paper Presentation from the Main Conference <br /> (Liuyue Xie)
   desc:
     detail: |
       <ul>
@@ -94,7 +94,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Benchmark Promotion
+    detail: Benchmark Promotion <br /> (Zhaowei Cai)
   desc:
     detail: 
     host:
@@ -103,7 +103,7 @@
   icon: fa-bullhorn
 
 - name:
-    detail: Keynote, Huaxiu Yao
+    detail: Keynote, Huaxiu Yao <br /> (Ce Zheng)
   desc:
     detail: "From Generation to Feedback: Benchmark-Guided Reward Modeling and Closed-Loop Alignment for Multimodal Systems"
     abstract: https://docs.google.com/document/d/1WhsHff3FNxw3oyNo-jfl-gElGN_7S9t-unh9zhwxpYg/edit?usp=sharing
@@ -112,7 +112,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Closing Remarks
+    detail: Closing Remarks <br /> (Davide Modolo)
   desc:
     detail:
     host:
