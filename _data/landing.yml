@@ -36,6 +36,12 @@
 #   tpl: submission.html
 #   css: submission
 
+- id: Reviewers
+  i18n: nav.reviewer
+  name: reviewers
+  tpl: reviewers.html
+  css: reviewer
+
 - id: PC
   i18n: nav.pc
   name: pc
